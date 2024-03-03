@@ -4,9 +4,8 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="350" style="max-width: 100%;">
 
-I’ve always enjoyed creating things, and I’ve always enjoyed using technology. Being creative and learning🧠 are two things that I try to do everyday! As an aspiring front-end developer, I am continually honing my skills in HTML, CSS, and JavaScript, the foundation technologies of web development. My passion lies in creating user-friendly and aesthetically pleasing web pages that enhance the user experience. I am constantly seeking to expand my knowledge in advanced technologies such as React and JQuery.
-
-- 🌱 I’m currently learning **React, Jquery**
+I have always enjoyed creating things and using technology. Being creative and learning🧠 are two things I try to do every day! As an aspiring front-end developer, I am constantly improving my skills in the core technologies of web development - HTML, CSS and JavaScript. My passion is to create user-friendly and aesthetically pleasing web pages that enhance the user experience. I also use the React library, and backend development is kind of what I need, so I'm learning Mongodb and improving my Python skills at the same time. 
+- 🌱 I’m currently learning **React, Python**,
 
 - 📫 How to reach me **hilalkara0020@gmail.com**
 
