@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Hilal</h1>
-<h3 align="center">A passionate Frontend developer</h3>
+<h3 align="center">Web Developer | Expanding Skills in Python, MongoDB, and PostgreSQL</h3>
 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="350" style="max-width: 100%;">
 
-I have always enjoyed creating things and using technology. Being creative and learning🧠 are two things I try to do every day! As an aspiring front-end developer, I am constantly improving my skills in the core technologies of web development - HTML, CSS and JavaScript. My passion is to create user-friendly and aesthetically pleasing web pages that enhance the user experience. I also use the React library, and backend development is kind of what I need, so I'm learning Mongodb and improving my Python skills at the same time. 
-- 🌱 I’m currently learning **React, Python**,
-
+I'm constantly improving myself in the world of web development. I started with the basic web technologies of HTML, CSS, and JavaScript to create user-friendly, aesthetically pleasing web pages. I'm also developing more interactive solutions using the React library for web applications.🧠 To expand my software knowledge, I recently started learning Python and have been exploring database systems like MongoDB and PostgreSQL. These new skills help me create more dynamic and efficient solutions in my projects.
+- 🌱 I'm currently deepening my knowledge of React and Python and getting the chance to use these technologies in real-world projects, as well as improving my basic skills in database management.
+- 🚀 In my profile, you can see more about the projects I'm working on and my interest in technology. I am always open to learning new things and working on different projects. 
 - 📫 How to reach me **hilalkara0020@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
