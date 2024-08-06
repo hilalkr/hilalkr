@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hilal</h1>
-<h3 align="center">Web Developer | Expanding Skills in Python, MongoDB, and PostgreSQL</h3>
+<h3 align="center">Web Developer | Expanding Skills in Python, Web Scraping
 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="350" style="max-width: 100%;">
