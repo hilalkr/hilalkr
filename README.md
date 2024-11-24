@@ -4,7 +4,7 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="350" style="max-width: 100%;">
 
 <p> 
-👩‍💻 I’m a Python developer with experience in web scraping, data cleaning, and processing. I work on extracting and organizing data using tools like BeautifulSoup, Selenium, and pandas. Currently, I’m focusing on improving my skills in data analysis and reporting to better understand and present insights. 🚀
+👩‍💻 I’m a Python developer with experience in web scraping, data cleaning, and processing. I work on extracting and organizing data using tools like BeautifulSoup, Selenium, and pandas. Currently, I’m focusing on improving my skills in data analysis and reporting to better understand and present insights🚀
 </p>
 
 <p> 
