@@ -1,25 +1,28 @@
 <h1 align="center">Hi 👋, I'm Hilal</h1>
-<h3 align="center">Software Developer | Web Development, Python, and Data Management</h3>
+<h3 align="center">Software Developer | Web Development, Python, Data Management & Focused on Data Analytics</h3>
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="350" style="max-width: 100%;">
 
 <p> 
-I'm a software developer focused on web development and data management. I work with technologies like HTML, CSS, JavaScript, React, and Next.js to build efficient and scalable solutions. Additionally, I am actively improving my skills in web scraping and data analytics, contributing to projects through platforms like Upwork. 🚀
+👩‍💻 I’m a Python developer with experience in web scraping, data cleaning, and processing. I work on extracting and organizing data using tools like BeautifulSoup, Selenium, and pandas. Currently, I’m focusing on improving my skills in data analysis and reporting to better understand and present insights. 🚀
 </p>
 
 <p> 
-In my projects, I aim to solve real-world problems and create practical, user-friendly applications. I also have backend development experience using Node.js and Sequelize ORM, allowing me to work across the full stack. My goal is to continuously improve my technical skills and contribute to meaningful projects.
+🎯 In my projects, I aim to handle unstructured data efficiently and transform it into meaningful outputs. From building automated scraping scripts to cleaning datasets for further analysis, I enjoy exploring how data can solve real-world problems. I also use databases like PostgreSQL to manage and structure data effectively.
 </p>
 
-🌱 Currently learning advanced Python and building more React.js projects to enhance user experiences.  
-📫 Reach me at: hilalkara0020@gmail.com  
-🔗 Check out my latest work in web scraping, automation, and full-stack development on my [repositories](https://github.com/hilalkr).
+🌱 Currently learning advanced Python techniques, data visualization tools like Matplotlib and Power BI, and exploring best practices in analytics and reporting.  
+📧 Reach me at: <a href="mailto:hilalkara0020@gmail.com">hilalkara0020@gmail.com</a>  
+🔗 Check out my latest work in web scraping, automation, and beginner-level analytics on my <a href="https://github.com/hilalkr">repositories</a>.  
+
+ 
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hilalk4r4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hilalk4r4" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hilal-kara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hilal-kara" height="30" width="40" /></a>
-<a href="https://www.behance.net/hilalkara2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="hilalkara2" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
