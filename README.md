@@ -28,8 +28,8 @@ I mostly work with Next.js, TypeScript, and Go building clean, reliable web apps
 <p align="left">
 <a href="https://twitter.com/hilalk4r4" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/X_logo_2023.svg/300px-X_logo_2023.svg.png" alt="hilalk4r4" width="40" /></a>
 <a href="https://linkedin.com/in/hilal-kara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hilal-kara" width="40" /></a>
-<a href="https://hilalkara.com/upwork" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Upwork-6FDA44?logo=upwork&logoColor=white&style=for-the-badge" height="28" />
+<a href="https://hilalkara.com/upwork" target="_blank" rel="noopener noreferrer" title="Upwork">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@11/icons/upwork.svg" width="34" style="filter: invert(69%) sepia(33%) saturate(556%) hue-rotate(72deg) brightness(92%) contrast(90%);" />
 </a>
 
 </p>
