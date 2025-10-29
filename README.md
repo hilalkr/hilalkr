@@ -4,15 +4,17 @@
 <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="350" style="max-width: 100%;">
 
 <p>
-👩‍💻 Full-stack developer experienced in Next.js, TypeScript, and Go, creating robust web applications with modern front-end frameworks and RESTful back-end services. 🚀
+👩‍💻 I’m a full-stack developer who enjoys working with teams and keeping clear communication in every project. 
+I’m calm, easy-going, and have built a strong sense of discipline from working remotely. 🚀
 </p>
 
 <p>
-• Built scalable, maintainable apps following service–repository–controller architecture on the backend. <br>
-• Implemented state management with Zustand, ensuring type safety and DRY principles on the frontend. <br>
-• Developed and tested AI-driven web platforms, connecting frontend and backend with clean APIs and Postman-verified E2E workflows.
-• Converted Figma designs into modular UI components and integrated them seamlessly with backend services. <br>
-• Earlier delivered Python automation & web scraping projects using BeautifulSoup and Selenium.
+I like learning new things and challenging myself whenever I face something unfamiliar. 
+Solving problems and improving a bit every day is what keeps me motivated.
+</p>
+
+<p>
+I mostly work with Next.js, TypeScript, and Go building clean, reliable web apps that actually help people.
 </p>
 
 <p>
